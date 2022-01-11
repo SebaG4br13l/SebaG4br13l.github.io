@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+mi primer pagina, a partir de una template.
 
 Template Name: Personal
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
